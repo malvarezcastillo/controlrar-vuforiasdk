@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\badge_background.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-xxhdpi\\badge_background.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_full.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\rating_full.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_close_normal.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\button_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_empty.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\rating_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_view_background.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\custom_view_background.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_view_strikethrough.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\custom_view_strikethrough.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\badge_background.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\badge_background.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_close_pressed.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-hdpi\\button_close_pressed.png"
+    }
+]

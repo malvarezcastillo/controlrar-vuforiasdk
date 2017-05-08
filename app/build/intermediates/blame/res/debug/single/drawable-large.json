@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\button_close_normal.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-large\\button_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\button_close_pressed.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable-large\\button_close_pressed.png"
+    }
+]

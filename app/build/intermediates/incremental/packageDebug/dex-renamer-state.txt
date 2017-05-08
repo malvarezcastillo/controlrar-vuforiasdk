@@ -1,0 +1,7 @@
+#Mon May 08 17:05:19 CEST 2017
+base.0=C\:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ed4eea53d3bd7f4f110d5a531208def92025ab54
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5842005d83a83b1c7da95d29417c9e36802c4649\\classes.dex
+base.1=C\:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5842005d83a83b1c7da95d29417c9e36802c4649
+file.0=C\:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ed4eea53d3bd7f4f110d5a531208def92025ab54\\classes.dex

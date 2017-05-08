@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_ebe027ad0af4bbca860c2fc9bdd755a067b5a4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_130b7a90daea48588cf336e2cae41903b0be46f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5842005d83a83b1c7da95d29417c9e36802c4649\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.android\build-cache\75abb4c171c7a9aea6a43740675bb8a178780b9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\classes_46232264995bce6c87719367ba655ce314bee5da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_a5b5dcec21c30cb64c5af18e67c4ffb461c467f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_527a0ab75453688299a4c70f2aaa750d2f9d9ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\gson-2.7_a26e65cde6614f19d690cd7e031fa536acf6de56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.android\build-cache\1bd9ef25b13e5edec9db8b170e3f3bd9b257798f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\classes_a1be10f678317edef890dd835a8c8d4d46857cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.android\build-cache\094236bb91cd2bb73d61c027e24f0207f6fb4db8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\classes_acff1b11184d54b263bbe86946e6b27f4d564325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\okio-1.11.0_dc241fd802e5517227866434e5a8e62d9c35b60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.android\build-cache\e7590d3b569f3d3faf28081194d2a190d629b2c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\classes_9bb9ec4ea6b84c10b0be6e46e91e88048dba120a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.android\build-cache\6c06c883ac7fcdda2a71016e1afdf06951561194\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\classes_f423c8c53ad3b58f7001671842d4cf202c22de28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b17811dc108999825b778e8505ce8c324f13896">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ed4eea53d3bd7f4f110d5a531208def92025ab54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\StudioProjects\vuforia\build\java\vuforia\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="177fc09d70ae5f94117c9ea1a7b3bec42c9d48b4">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\Vuforia_6cf2ee6ba2136fabb4be8d630e5020666fcb7a01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tsanummy\StudioProjects\vuforia\build\java\vuforia\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="177fc09d70ae5f94117c9ea1a7b3bec42c9d48b4">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_6cf2ee6ba2136fabb4be8d630e5020666fcb7a01\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tsanummy\.android\build-cache\e0287dfd7b1d90db50d020d50e536b67fbdea4a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\tsanummy\StudioProjects\vuforia\samples\Books\app\build\intermediates\pre-dexed\debug\classes_6b1b043ed173eeed78a0485bc40f2095d36918ee.jar" />
+    </item>
+
+</items>

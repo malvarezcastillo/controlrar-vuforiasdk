@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanline.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable\\scanline.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_bar_full.xml",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable\\rating_bar_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button_background.xml",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable\\close_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "C:\\Users\\tsanummy\\StudioProjects\\vuforia\\samples\\Books\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    }
+]
